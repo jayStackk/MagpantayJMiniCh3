@@ -1,0 +1,15 @@
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\MagpantayJMiniCh3.csproj.AssemblyReference.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\MagpantayJMiniCh3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\MagpantayJMiniCh3.AssemblyInfoInputs.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\MagpantayJMiniCh3.AssemblyInfo.cs
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\MagpantayJMiniCh3.csproj.CoreCompileInputs.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\bin\Debug\net6.0\MagpantayJMiniCh3.exe
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\bin\Debug\net6.0\MagpantayJMiniCh3.deps.json
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\bin\Debug\net6.0\MagpantayJMiniCh3.runtimeconfig.json
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\bin\Debug\net6.0\MagpantayJMiniCh3.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\bin\Debug\net6.0\MagpantayJMiniCh3.pdb
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\MagpantayJMiniCh3.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\refint\MagpantayJMiniCh3.dll
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\MagpantayJMiniCh3.pdb
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\MagpantayJMiniCh3.genruntimeconfig.cache
+C:\Users\magpa\Documents\MagpantayJRevampCh\MagpantayJMiniCh3\obj\Debug\net6.0\ref\MagpantayJMiniCh3.dll
